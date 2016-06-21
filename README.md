@@ -26,22 +26,27 @@ http://localhost/advanced/
 ```
 
 You can test the API by using these credentials:
+```
 App id: APP-ID-1
 App secret: HASHED-APP-SECRET
+```
 
 There are currently two phones in the database with the following IMEIs:
+```
 222222
 444444
-
+```
 
 ## Site login
 Login to the site by the following username and password:
+```
 username: bijan
 password: 111111
+```
 
 
 ## Notes
-There needs to be a module for creation, hashin and regeneration of App Secrets. Also the authorizations should be inforced and appropriate output fields filtered. Therefore the code is far from production yet. It is solely developed for testing purposes. 
+There needs to be a module for creation, hashing and regeneration of App Secrets. Also the authorizations should be inforced and appropriate output fields filtered. Therefore the code is far from production yet. It is solely developed for testing purposes. 
 
 
 
